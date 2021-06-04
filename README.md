@@ -3,3 +3,4 @@
 | 이름 | 학번 | Github ID | 이메일 |
 |:---:|:----:|:----:|:----:|
 |이승준|2018315013|BoriLAB|asd@gmail.com|
+|유병민|2018315014|suessee|suessee@naver.com|
