@@ -4,7 +4,7 @@
 |:---:|:----:|:----:|:----:|
 |이승준|2018315013|BoriLAB|asd@gmail.com|
 |유병민|2018315014|suessee|suessee@naver.com|
-|인원3|????|????|????|
+|이강욱|2020315030|MaeNeung|damiea987@gmail.com|
 
 ## 김수환
 - kimsoohwan@sunmoon.ac.kr
