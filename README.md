@@ -8,3 +8,6 @@
 
 ## 김수환
 - kimsoohwan@sunmoon.ac.kr
+
+## 이승준 
+- bori9691@gmail.com
